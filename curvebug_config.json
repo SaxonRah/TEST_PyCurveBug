@@ -1,0 +1,77 @@
+{
+  "serial_port": "COM3",
+  "window_width": 1080,
+  "window_height": 1080,
+  "colors": {
+    "background": [
+      0,
+      0,
+      0
+    ],
+    "dut1_trace": [
+      50,
+      150,
+      255
+    ],
+    "dut2_trace": [
+      255,
+      50,
+      50
+    ],
+    "dut1_dimmed": [
+      25,
+      75,
+      128
+    ],
+    "dut2_dimmed": [
+      128,
+      25,
+      25
+    ],
+    "grid_background": [
+      30,
+      30,
+      30
+    ],
+    "grid": [
+      50,
+      50,
+      50
+    ],
+    "crosshair": [
+      255,
+      255,
+      50
+    ],
+    "label": [
+      200,
+      200,
+      200
+    ],
+    "axis_title": [
+      255,
+      255,
+      255
+    ],
+    "border": [
+      100,
+      100,
+      100
+    ],
+    "dut_voltage": [
+      50,
+      255,
+      150
+    ]
+  },
+  "keybinds": {
+    "quit": "q",
+    "pause": "p",
+    "single_channel": "s",
+    "auto_scale": "a",
+    "fit_window": "f",
+    "reset_view": "r",
+    "cycle_mode": "space",
+    "settings": "f1"
+  }
+}

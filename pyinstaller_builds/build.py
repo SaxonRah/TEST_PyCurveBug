@@ -21,7 +21,7 @@ class BuildConfig:
     AUTHOR = "Robert Valentine"
 
     # Source files
-    MAIN_SCRIPT = "../PyCurveBug_Raw.py"
+    MAIN_SCRIPT = "../PyCurveBug.py"
     CONFIG_FILE = "../curvebug_config.json"
 
     # Build directories
